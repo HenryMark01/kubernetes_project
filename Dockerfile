@@ -24,4 +24,4 @@ RUN cp -rvf photogenic/* . \
 CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
 
 # Expose port 80
-EXPOSE 80
+EXPOSE 80 22
