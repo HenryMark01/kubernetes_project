@@ -23,5 +23,5 @@ RUN cp -rvf photogenic/* . \
 # Start Apache in the foreground when the container starts
 CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
 
-# Expose port 80
-EXPOSE 80 22
+# Expose port 80 okay
+EXPOSE 80 
