@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![](./media/image1.png){width="6.5in" height="3.4027777777777777in"}
+![](./media/image1.png)
 
 This project demonstrates the implementation of a fully automated CI/CD
 pipeline for deploying a web application. The pipeline integrates
